@@ -28,14 +28,14 @@
         ],
         "homepage": "https://github.com/StarlightsTeam/Ai-Hoshino",
         "author": {
-                "name": "おDanịel.xyz⁩"
+                "name": "Moisés Gomez"
         },
         "repository": {
                 "type": "git",
-                "url": "git+https://github.com/Crissdavi/Kuroda_haru.git"
+                "url": "git+https:https://github.com/daniela392/Goku-bot-MD"
         },
         "bugs": {
-                "url": "https://github.com/StarlightsTeam/Ai-Hoshino/issues"
+                "url": "https:https://github.com/daniela392/Goku-bot-MD"
         },
         "license": "GPL-3.0-or-later",
         "dependencies": {
