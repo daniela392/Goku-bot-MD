@@ -25,7 +25,7 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Koruda",\n     "author": "ㅤㅤㅤㅤㅤ…⁠ᘛDaniel",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Koruda",\n     "author": "ㅤㅤㅤㅤㅤ…⁠ᘛMoises",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛo...*'
 global.botname = '♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩'
 global.textbot = `Koruda-bot`
@@ -39,8 +39,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/LrO4Xi0labZ9Hu4GNxhtu9'
-global.canal = 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10'
+global.group = 'https://chat.whatsapp.com/Hxfido5wCNS8eSbioOWRSQ?mode=ac_t'
+global.canal = 'https://whatsapp.com/channel/0029Vb5wVBjJuyAEWJnx6D1z'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
