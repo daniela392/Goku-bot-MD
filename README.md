@@ -41,20 +41,20 @@
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Crissdavi&repo=Kuroda_haru&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Catrina&repo=Catrina_bot OFC&theme=chartreuse-dark)
 
 ---------
 
 ## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Crissdavi&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Crissdavi&layout=compact&theme=chartreuse-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Catrina&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Catrina&layout=compact&theme=chartreuse-dark)
 
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/Crissdavi"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="moises"/></a>
+<a href="https://github.com/daniela392"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="moises"/></a>
 
 ` Catrina bot- OFC / Catrina OFC_ …⁠moises<3
 `
