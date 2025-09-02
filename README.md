@@ -7,7 +7,7 @@
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
-        <a href="https://github.com/Crissdavi"><img title="Author"    src="https://img.shields.io/badge/Author-おCriss-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://https://github.com/daniela392"><img title="Author"    src="https://img.shields.io/badge/Author-おCriss-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/Crissdaviollowers"><img title="Followers" src="https://img.shields.io/github/followers/Crissdavi?color=blue&style=flat-square"></a>
@@ -56,5 +56,5 @@
 
 <a href="https://github.com/Crissdavi"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
 
-` koruda - OFC / TEAM KORUDA OFC _ …⁠ᘛCriss
+` Catrina bot- OFC / Catrina bot OFC_ …⁠moises<3
 `
