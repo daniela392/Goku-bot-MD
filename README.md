@@ -41,7 +41,7 @@
 
 ## Repo Stats 🔭
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Catrina&repo=Catrina_bot OFC&theme=chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Catrina&repo=kuroda_huro&theme=chartreuse-dark)
 
 ---------
 
