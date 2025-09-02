@@ -56,5 +56,5 @@
 
 <a href="https://github.com/Crissdavi"><img src="https://i.ibb.co/MDHkhRZ/file.jpg" width="300" height="300" alt="moises"/></a>
 
-` Catrina bot- OFC / Catrina bot OFC_ …⁠moises<3
+` Catrina bot- OFC / Catrina OFC_ …⁠moises<3
 `
