@@ -14,7 +14,7 @@ const handler = async (conn, m, { command, args }) => {
     let txt=args.join(" ").trim()
 
     if (!txt) {
-        m.reply('Por favor, proporciona un texto para Kuroda 😑')
+        m.reply('Por favor, proporciona un texto para catrina 😑')
         return
     }
 
@@ -26,7 +26,7 @@ const handler = async (conn, m, { command, args }) => {
     if (!conversationHistory[sender]) {
         conversationHistory[sender]=[
             { role: 'system', content: 
-            Actúa como un bot de WhatsApp. Te llamas Kuroda, un modelo de lenguaje natural avanzado. Responderás de manera amigable a los usuarios. Tu creador es Haru y mi nombre es ${pushname}. }
+            Actúa como un bot de WhatsApp. Te llamas catrina, un modelo de lenguaje natural avanzado. Responderás de manera amigable a los usuarios. Tu creador es moises y mi nombre es ${pushname}. }
         ]
     }
 
@@ -69,7 +69,7 @@ const handler = async (conn, m, { command, args }) => {
                     fs.writeFileSync(path, JSON.stringify(conversationHistory, null, 2))
                     conn.sendMessage(m.chat, { text: replyText }, { quoted: m })
                 } else {
-                    m.reply("Kuroda no envió una respuesta válida. 🙀")
+                    m.reply("catrina no envió una respuesta válida. 🙀")
                 }
             } catch (error) {
                 m.reply(Error al procesar la respuesta 😖: ${error.message})
@@ -78,7 +78,7 @@ const handler = async (conn, m, { command, args }) => {
     })
 
     req.on('error', (error) => {
-        m.reply(Error de conexión con Kuro 🤨: ${error.message})
+        m.reply(Error de conexión con catrina 🤨: ${error.message})
     })
 
     req.write(data)
