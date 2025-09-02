@@ -1,4 +1,4 @@
-<h1 align="center">‧ 【 ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ 】 ‧
+<h1 align="center">‧ 【 catrina bot OFC 】 ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/aff4f06b811e3f98f1b56.jpg">
